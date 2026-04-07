@@ -19,7 +19,7 @@ A simple and efficient Meeting Notes application built using modern web technolo
 - **Frontend:** Vue.js  
 - **Backend / Database:** Supabase  
 - **Authentication:** Supabase Auth  
-- **Styling:** CSS / (Add Tailwind if used)
+- **Styling:** CSS 
 
 ---
 
